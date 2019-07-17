@@ -2,3 +2,6 @@
 苹果
 vivo
 oppo
+md101
+md707
+mc731
